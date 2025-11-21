@@ -1,8 +1,8 @@
-    [Structure Prediction](#structure-prediction)
+[Structure Prediction](#structure-prediction)
 
-    [Molecular Dynamics](#molecular-dynamics)
+[Molecular Dynamics](#molecular-dynamics)
 
-    [Unsorted papers](#unsorted-papers)
+[Unsorted papers](#unsorted-papers)
 
 ## Bioinformatics
 
