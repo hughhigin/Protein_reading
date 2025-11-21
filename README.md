@@ -1,5 +1,4 @@
-This is an attempt to document the most relevant papers for research in the Pollack lab into RNA structure-function and RNA-protein interactions. Inspired by [this repository](https://github.com/yangkky/Machine-learning-for-proteins) 
-
+Repository to share papers and reading. README.md has some highlights in a few categories, but additional .md files can be added as desired for additional organization.
 
 Papers within each category are listed in reverse chronoligcal order. Categories subject to reorganization as the collection develops, and tags are included for easier searching. 
 
@@ -7,11 +6,15 @@ Papers within each category are listed in reverse chronoligcal order. Categories
 
 [More Biological](#more-biological)
 
-  [Protein structure function](#protein-structure-function)
+    [Protein Structures](#protein-structures)
 
 [More Computational](#more-computational)
 
-  [Unsorted papers](#unsorted-papers)
+    [Structure Prediction](#structure-prediction)
+
+    [Molecular Dynamics](#molecular-dynamics)
+
+[Unsorted papers](#unsorted-papers)
 
 ## Template 
 
@@ -23,35 +26,15 @@ Author list
 
 # More Biological
 
-## Cool Proteins and Structures
-
-## EM techniques
-
-## Membrane related
-
-## Glycobiology
-
-## Miscellaneous bacteria
-
-## Misc microbiology
+## Protein Structures
 
 # More Computational
 
-## Bioinformatics
+## Structure Prediction
 
 ## Molecular Dynamics
 
-## Docking and Drug design
-
-## Computational chemistry
-
-
-## LLM
-
-
-## Misc Computational
-
-## Unsorted papers
+# Unsorted papers
 
 
 
