@@ -6,13 +6,13 @@ Papers within each category are listed in reverse chronoligcal order. Categories
 
 [More Biological](#more-biological)
 
-  -[Protein Structures](#protein-structures)
+  - [Protein Structures](#protein-structures)
 
 [More Computational](#more-computational)
 
-  -[Structure Prediction](#structure-prediction)
+  - [Structure Prediction](#structure-prediction)
 
-  -[Molecular Dynamics](#molecular-dynamics)
+  - [Molecular Dynamics](#molecular-dynamics)
 
 [Unsorted papers](#unsorted-papers)
 

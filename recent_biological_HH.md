@@ -1,7 +1,7 @@
 
 [More Biological](#more-biological)
 
-  -[Protein structures](#protein-structures)
+  - [Protein structures](#protein-structures)
 
 
 ## Cool Proteins and Structures
